@@ -129,10 +129,6 @@ https://www.th-nuernberg.de/fileadmin/zentrale-einrichtungen/bib/Schulungsunterl
   Verwende das Zotero-Plu
 
 
-
-
-
-
 # ❣️ Best Practice Beispiel(e)
 
 https://www.zotero.org/
