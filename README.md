@@ -100,6 +100,72 @@ https://www.schreiben.zentrumlesen.ch/myuploaddata/files/anleitung_zotero.pdf
 **Zotero-Handbuch V inklusive Lernaufträgen**
 https://www.th-nuernberg.de/fileadmin/zentrale-einrichtungen/bib/Schulungsunterlagen/sonstige/Zotero_ausf%C3%BChrlich_Stand_Mai_2023.pdf
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+# Zotero FAQ
+
+## Was ist Zotero?
+Zotero ist ein kostenloses Programm, mit dem du deine Quellen und Literatur verwalten kannst. Es hilft dir, Zitate und Literaturverzeichnisse einfach zu erstellen.
+
+<details>
+<summary>Wie installiere ich Zotero?</summary>
+1. Gehe auf die Website von Zotero: [https://www.zotero.org/](https://www.zotero.org/)
+2. Klicke auf "Download".
+3. Lade die passende Version für dein Betriebssystem herunter (Windows, Mac, Linux).
+4. Öffne die heruntergeladene Datei und folge den Installationsanweisungen.
+</details>
+
+<details>
+<summary>Wie füge ich eine Quelle in Zotero hinzu?</summary>
+1. Öffne Zotero.
+2. Klicke auf das grüne Plus-Symbol (Neue Element).
+3. Wähle den Typ der Quelle (Buch, Artikel, Webseite, etc.).
+4. Fülle die Felder mit den Informationen zur Quelle aus (Autor*in, Titel, Jahr, etc.).
+</details>
+
+<details>
+<summary>Wie importiere ich Quellen von einer Webseite?</summary>
+1. Installiere den Zotero-Browser-Connector für deinen Browser (erhältlich auf der Zotero-Website).
+2. Gehe auf die Webseite mit der Quelle, die du speichern möchtest.
+3. Klicke auf das Zotero-Symbol in der Browserleiste.
+4. Die Quelle wird automatisch zu deiner Zotero-Bibliothek hinzugefügt.
+</details>
+
+<details>
+<summary>Wie erstelle ich ein Literaturverzeichnis?</summary>
+1. Markiere die gewünschten Quellen in deiner Zotero-Bibliothek.
+2. Klicke mit der rechten Maustaste auf die markierten Quellen.
+3. Wähle "Literaturverzeichnis erstellen".
+4. Wähle das gewünschte Zitierformat (z.B. APA, MLA).
+5. Kopiere das erstellte Literaturverzeichnis und füge es in dein Dokument ein.
+</details>
+
+<details>
+<summary>Wie integriere ich Zotero in mein Textverarbeitungsprogramm (z.B. Word)?</summary>
+1. Stelle sicher, dass Zotero und dein Textverarbeitungsprogramm (z.B. Word) geschlossen sind.
+2. Öffne Zotero und gehe zu "Werkzeuge" > "Add-ons".
+3. Stelle sicher, dass das Plugin für dein Textverarbeitungsprogramm installiert ist.
+4. Öffne dein Textverarbeitungsprogramm, du solltest jetzt ein Zotero-Menü sehen.
+</details>
+
+<details>
+<summary>Wie mache ich ein Backup meiner Zotero-Daten?</summary>
+1. Gehe in Zotero auf "Bearbeiten" > "Einstellungen".
+2. Gehe zum Reiter "Erweitert".
+3. Klicke auf "Dateien und Ordner anzeigen".
+4. Kopiere den Ordner "zotero" an einen sicheren Ort (z.B. externe Festplatte, Cloud).
+</details>
+
+<details>
+<summary>Wo finde ich weitere Hilfe zu Zotero?</summary>
+1. Besuche das Zotero-Forum: [https://forums.zotero.org/](https://forums.zotero.org/)
+2. Schaue dir die offiziellen Zotero-Anleitungen an: [https://www.zotero.org/support/](https://www.zotero.org/support/)
+3. Es gibt auch viele hilfreiche Videos auf YouTube.
+</details>
+
+
+
 
 
 # ❣️ Best Practice Beispiel(e)
