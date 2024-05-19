@@ -103,11 +103,6 @@ https://www.th-nuernberg.de/fileadmin/zentrale-einrichtungen/bib/Schulungsunterl
 ## ❓FAQ 
 <div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
 
-# Zotero FAQ
-
-# Zotero FAQ
-
-## Fragen und Antworten
 
 <details>
   <summary>Was ist Zotero?</summary>
